@@ -2,6 +2,8 @@
 Hello there!\
 This repository holds all the projects done during the period of stanCode SC101 and SC001 course.
 
+Watch My *[DEMO VIDEOS](https://drive.google.com/drive/folders/1zg5SmfK17CoC6A1jPh9nIBkxb9KgR1TY?usp=sharing)*
+
 ## Project Source Codes
 * [Hangman Game](https://github.com/Helenhjlai/StanCodeProjects/blob/main/StanCodeProjects/hangman_game/hangman.py)
   * python semantics and syntax
